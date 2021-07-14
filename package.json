@@ -1,5 +1,5 @@
 {
-  "name": "plummet",
+  "name": "@samisdat/plummet",
   "version": "1.0.0",
   "description": "An empty, senseless project just for infrastructure tests",
   "main": "index.js",
