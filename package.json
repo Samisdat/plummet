@@ -1,0 +1,15 @@
+{
+  "name": "@vfde-fe/plummet",
+  "version": "1.0.0",
+  "description": "An empty, senseless project just for infrastructure tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.wf-de.vodafone.com/bpertz/plummet.git"
+  },
+  "author": "Bastian <Pertz@vodafone.com>",
+  "license": "ISC"
+}
